@@ -1,0 +1,24 @@
+{"id": "q01", "question": "What is 6 times 7?", "choices": {"A": "36", "B": "42", "C": "48", "D": "40"}, "answer": "B"}
+{"id": "q02", "question": "What is the capital of France?", "choices": {"A": "Lyon", "B": "Paris", "C": "Nice", "D": "Lille"}, "answer": "B"}
+{"id": "q03", "question": "How many sides does a hexagon have?", "choices": {"A": "5", "B": "6", "C": "7", "D": "8"}, "answer": "B"}
+{"id": "q04", "question": "What is 15 minus 9?", "choices": {"A": "5", "B": "7", "C": "6", "D": "8"}, "answer": "C"}
+{"id": "q05", "question": "Which planet is closest to the Sun?", "choices": {"A": "Venus", "B": "Mars", "C": "Mercury", "D": "Earth"}, "answer": "C"}
+{"id": "q06", "question": "What is 9 squared?", "choices": {"A": "18", "B": "27", "C": "72", "D": "81"}, "answer": "D"}
+{"id": "q07", "question": "What is the chemical formula of water?", "choices": {"A": "CO2", "B": "H2O", "C": "O2", "D": "NaCl"}, "answer": "B"}
+{"id": "q08", "question": "What is 100 divided by 4?", "choices": {"A": "20", "B": "25", "C": "40", "D": "50"}, "answer": "B"}
+{"id": "q09", "question": "How many days are in February in a common year?", "choices": {"A": "27", "B": "28", "C": "29", "D": "30"}, "answer": "B"}
+{"id": "q10", "question": "What is 3 cubed?", "choices": {"A": "9", "B": "12", "C": "27", "D": "81"}, "answer": "C"}
+{"id": "q11", "question": "What is 8 plus 5?", "choices": {"A": "12", "B": "13", "C": "14", "D": "15"}, "answer": "B"}
+{"id": "q12", "question": "Which is the largest planet in the solar system?", "choices": {"A": "Saturn", "B": "Jupiter", "C": "Neptune", "D": "Earth"}, "answer": "B"}
+{"id": "q13", "question": "What is the square root of 81?", "choices": {"A": "7", "B": "8", "C": "9", "D": "11"}, "answer": "C"}
+{"id": "q14", "question": "At sea level, what is the freezing point of water in degrees Celsius?", "choices": {"A": "-10", "B": "0", "C": "32", "D": "100"}, "answer": "B"}
+{"id": "q15", "question": "What is 12 times 12?", "choices": {"A": "124", "B": "144", "C": "148", "D": "164"}, "answer": "B"}
+{"id": "q16", "question": "How many minutes are in one hour?", "choices": {"A": "30", "B": "60", "C": "90", "D": "100"}, "answer": "B"}
+{"id": "q17", "question": "What is 2 to the power of 5?", "choices": {"A": "10", "B": "16", "C": "25", "D": "32"}, "answer": "D"}
+{"id": "q18", "question": "What is the chemical symbol for gold?", "choices": {"A": "Ag", "B": "Au", "C": "Fe", "D": "Pb"}, "answer": "B"}
+{"id": "q19", "question": "What is 45 divided by 9?", "choices": {"A": "4", "B": "5", "C": "6", "D": "9"}, "answer": "B"}
+{"id": "q20", "question": "How many sides does a triangle have?", "choices": {"A": "2", "B": "3", "C": "4", "D": "5"}, "answer": "B"}
+{"id": "q21", "question": "How many meters are in one kilometer?", "choices": {"A": "10", "B": "100", "C": "1000", "D": "10000"}, "answer": "C"}
+{"id": "q22", "question": "Which direction is opposite north?", "choices": {"A": "east", "B": "west", "C": "south", "D": "up"}, "answer": "C"}
+{"id": "q23", "question": "What is 7 times 8?", "choices": {"A": "48", "B": "54", "C": "56", "D": "64"}, "answer": "C"}
+{"id": "q24", "question": "How many hours are in one day?", "choices": {"A": "12", "B": "24", "C": "48", "D": "60"}, "answer": "B"}

@@ -52,4 +52,23 @@ logreg vs tree
   verdict: clear
 ```
 
+## Prompts
+
+One local model, llama3.2:3b, on 24 questions. short and long are the two wordings. Temperature is 0. The score is 1 when the last A-D letter matches the gold letter.
+
+```
+factor: question
+baseline: short
+
+short vs long
+  paired: 24
+  dropped: 0
+  short: mean 0.708  min 0.000  max 1.000
+  long: mean 0.708  min 0.000  max 1.000
+  gap (long - short): mean 0.000  min 0.000  max 0.000
+  verdict: unresolved
+```
+
 Sonar is the only classical dataset in the repo.
+The prompt file is llama3.2:3b, two wordings, temperature 0.
+examples/run_prompts.py does not vary temperature and does not call a second scorer.
