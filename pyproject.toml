@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "runvar"
+version = "0.1.0"
+description = "Compare a score gap with the spread across reruns"
+requires-python = ">=3.12"
+license = "MIT"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["runvar*"]
